@@ -3,5 +3,5 @@
 @arr = ("hello","world");
 
 foreach $elem (@arr) {
-  print "$elem ";
+  print "$elem\n";
 }
